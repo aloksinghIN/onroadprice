@@ -15,10 +15,6 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <build>
-    <finalName>root</finalName>
-  </build>
-  
   <profiles>
  		<profile>
  			
