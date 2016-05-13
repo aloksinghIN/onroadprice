@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>onroadprice</finalName>
+    <finalName>root</finalName>
   </build>
 </project>
